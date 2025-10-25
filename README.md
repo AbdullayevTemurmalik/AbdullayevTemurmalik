@@ -49,11 +49,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AbdullayevTemurmalik?style=social" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/AbdullayevTemurmalik?style=social" alt="stars"/>
-  <img src="https://komarev.com/ghpvc/?username=AbdullayevTemurmalik&label=Profile+Views&color=brightgreen" alt="views"/>
-</p>
+
 
 
 
