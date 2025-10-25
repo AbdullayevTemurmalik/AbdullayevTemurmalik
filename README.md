@@ -41,11 +41,21 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=radical&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullayevTemurmalik&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=radical" height="180"/>
 </p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AbdullayevTemurmalik?style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/AbdullayevTemurmalik?style=social" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=AbdullayevTemurmalik&label=Profile+Views&color=brightgreen" alt="views"/>
+</p>
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullayevTemurmalik&theme=radical" alt="streak stats"/>
