@@ -67,7 +67,7 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: `temurbek@example.com`
+- 📧 Email: `tmaq77gmail.com`
 - 📸 Instagram: [@temur.s1](https://instagram.com/temur.s1)
 
 ---
