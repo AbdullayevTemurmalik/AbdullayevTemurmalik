@@ -25,7 +25,7 @@
 ## 🏆 Codewars
 <p align="center">
   <a href="https://www.codewars.com/users/AbdullayevTemurmalik">
-    <img src="https://www.codewars.com/users/AbdullayevTemurmalik/badges/large" alt="Codewars badge">
+    <img src="https://www.codewars.com/users/AbdullayevTemurmalik/badges/large" alt="Codewars badge" />
   </a>
 </p>
 
