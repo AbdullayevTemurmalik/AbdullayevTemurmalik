@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi+there+👋+I'm+Temurbek.;Front-End+Developer+|+React+|+JavaScript" alt="typing">
 </p>
 
-<h1 align="center">👨‍💻 Abdullayev Temurbek</h1>
+<h1 align="center">👨‍💻 Abdullayev TemurMalik</h1>
 <p align="center">
   <strong>Front-End Developer</strong> — React, JavaScript, HTML, CSS  
   <br>Men doimo yangi texnologiyalarni o‘rganaman va zamonaviy UI yaratishni yaxshi ko‘raman.
