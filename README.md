@@ -4,8 +4,6 @@
 </p>
 
 
-
-
 <h1 align="center">👨‍💻 Abdullayev TemurMalik</h1>
 <p align="center">
   <strong>Front-End Developer</strong> — React, JavaScript, HTML, CSS  
@@ -31,8 +29,6 @@
 <p align="center">
   🔧 Familiar with <strong>React Hooks</strong> — <code>useState</code>, <code>useEffect</code>, <code>useRef</code>
 </p>
-
-
 
 
 
