@@ -38,7 +38,7 @@
 </p>
 
 > 🎯 Rank: **4 kyu**  
-> 💪 Honor: **832+**  
+> 💪 Honor: **880+**  
 > 🥇 [Ko‘proq ko‘rish](https://www.codewars.com/users/AbdullayevTemurmalik)
 
 ---
