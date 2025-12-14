@@ -57,7 +57,7 @@
 </p>
 
 > 💡 **250+ contributions in the last year**  
-> 📦 **20+ public repositories**  
+> 📦 **25+ public repositories**  
 > 🚀 Growing developer, always learning new skills!
 
 ---
