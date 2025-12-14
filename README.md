@@ -56,7 +56,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullayevTemurmalik&theme=radical" alt="streak stats"/>
 </p>
 
-> 💡 **220+ contributions in the last year**  
+> 💡 **250+ contributions in the last year**  
 > 📦 **20+ public repositories**  
 > 🚀 Growing developer, always learning new skills!
 
