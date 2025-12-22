@@ -9,7 +9,6 @@
   <br>Men doimo yangi texnologiyalarni o‘rganaman va zamonaviy UI yaratishni yaxshi ko‘raman.
 </p>
 
-
 ---
 
 ## 💻 Tech Stack
