@@ -31,16 +31,6 @@
 
 ---
 
-## 🏆 Codewars
-<p align="center">
-  <a href="https://www.codewars.com/users/AbdullayevTemurmalik">
-    <img src="https://www.codewars.com/users/AbdullayevTemurmalik/badges/large" alt="Codewars badge" />
-  </a>
-</p>
-
-> 🎯 Rank: **4 kyu**  
-> 💪 Honor: **880+**  
-> 🥇 [Ko‘proq ko‘rish](https://www.codewars.com/users/AbdullayevTemurmalik)
 
 ---
 
