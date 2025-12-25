@@ -76,7 +76,6 @@
 
 ---
 
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdullayevTemurmalik&theme=radical&margin-w=10" alt="GitHub trophies"/>
 </p>
