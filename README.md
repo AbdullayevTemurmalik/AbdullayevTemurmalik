@@ -5,7 +5,7 @@
 <h1 align="center">👨‍💻 Abdullayev TemurMalik</h1>
 
 <p align="center">
-  <strong>Front-End +  Developer</strong> — React, JavaScript, HTML, CSS, Node.js
+  <strong>Front-End + Back Developer</strong> — React, JavaScript, HTML, CSS, Node.js
   <br>
   Men doimo yangi texnologiyalarni o‘rganaman va zamonaviy UI yaratishni yaxshi ko‘raman.
 </p>
