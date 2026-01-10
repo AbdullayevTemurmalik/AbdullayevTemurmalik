@@ -71,7 +71,7 @@
 
 ## 💡 About Me
 
-* 🧠 Focus: **React.js**, **JavaScript**, **UI/UX**
+* 🧠 Focus: **React.js**, **Node.JS**, **JavaScript**, **UI/UX**
 * 🎯 Goal: Become a professional Front-End Developer
 * ⚡ Fun fact: Kofe ichganimda 2x tez kod yozaman 😄
 * 🌍 Based in Uzbekistan
