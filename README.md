@@ -5,7 +5,7 @@
 <h1 align="center">👨‍💻 Abdullayev TemurMalik</h1>
 
 <p align="center">
-  <strong>Front-End + Back-End Developer</strong> — React, JavaScript, HTML, CSS, Node.js, Express.
+  <strong>Front-End + Back-End Developer</strong> — React, JavaScript, HTML, CSS, Node.js, Express.js
   <br>
   Men doimo yangi texnologiyalarni o‘rganaman va zamonaviy UI yaratishni yaxshi ko‘raman.
 </p>
