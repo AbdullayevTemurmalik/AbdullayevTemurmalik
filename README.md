@@ -88,3 +88,11 @@
 <p align="center">
   <i>“Code. Create. Improve. Repeat.”</i> 🚀
 </p>
+
+---
+
+<h3 align="center">⭐️ Thanks for visiting! You're awesome! ⭐️</h3>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
