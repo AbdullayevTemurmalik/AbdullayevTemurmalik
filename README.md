@@ -82,7 +82,7 @@
 
 * 📧 Email: `tmaq77@gmail.com`
 * 📸 Instagram: [@temur.s1](https://instagram.com/temur.s1)
-
+* 💻 Telegram: [TemurMalik]_(https://t.me/Temur_React_Developer)
 ---
 
 <p align="center">
