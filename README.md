@@ -13,7 +13,6 @@
 ---
 
 ## 💻 Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white"/>
@@ -35,21 +34,19 @@
 ---
 
 ## 🏆 Codewars
-
 <p align="center">
   <a href="https://www.codewars.com/users/AbdullayevTemurmalik" target="_blank">
     <img src="https://www.codewars.com/users/AbdullayevTemurmalik/badges/large" alt="Codewars badge" />
   </a>
 </p>
 
-> 🎯 Rank: **4 kyu**
-> 💪 Honor: **880+**
+> 🎯 Rank: **4 kyu**  
+> 💪 Honor: **880+**  
 > 🥇 [Ko‘proq ko‘rish](https://www.codewars.com/users/AbdullayevTemurmalik)
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullayevTemurmalik&theme=radical" height="180"/>
@@ -62,7 +59,6 @@
 ---
 
 ## ⭐ GitHub Achievements
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdullayevTemurmalik&theme=radical&margin-w=10&no-frame=true&column=6" />
 </p>
@@ -70,19 +66,18 @@
 ---
 
 ## 💡 About Me
-
-* 🧠 Focus: **React.js**, **Node.JS**, **JavaScript**, **UI/UX**
-* 🎯 Goal: Become a professional Front-End Developer
-* ⚡ Fun fact: Kofe ichganimda 2x tez kod yozaman 😄
-* 🌍 Based in Uzbekistan
+* 🧠 Focus: **React.js**, **Node.JS**, **JavaScript**, **UI/UX**  
+* 🎯 Goal: Become a professional Front-End Developer  
+* ⚡ Fun fact: Kofe ichganimda 2x tez kod yozaman 😄  
+* 🌍 Based in Uzbekistan  
 
 ---
 
 ## 📫 Contact
+* 📧 Email: `tmaq77@gmail.com`  
+* 📸 Instagram: [@temur.s1](https://instagram.com/temur.s1)  
+* 💻 Telegram: [TemurMalik](https://t.me/Temur_React_Developer)
 
-* 📧 Email: `tmaq77@gmail.com`
-* 📸 Instagram: [@temur.s1](https://instagram.com/temur.s1)
-* 💻 Telegram: [TemurMalik]_(https://t.me/Temur_React_Developer)
 ---
 
 <p align="center">
@@ -96,4 +91,3 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
-
