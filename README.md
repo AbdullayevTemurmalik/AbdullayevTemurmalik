@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi+there+👋+I'm+TemurMalik.;Front-End+Developer+|+React+|+JavaScript" alt="typing" />
 </p>
 
-<h1 align="center">👨‍💻 Abdullayev TemurMali</h1>
+<h1 align="center">👨‍💻 Abdullayev TemurMalik</h1>
 
 <p align="center">
   <strong>Front-End + Back-End Developer</strong> — React, JavaScript, HTML, CSS, Node.js, Express.js
