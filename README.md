@@ -30,12 +30,12 @@
 
 ### 📫 Contact
 
-- <img src="https://img.icons8.com/ios-filled/20/000000/phone.png"/> **Phone:** `+998 (90) 696-79-99`
+- <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="20"/> **Phone:** `+998 (90) 696-79-99`
 
-- <img src="https://img.icons8.com/ios-filled/20/000000/new-post.png"/> **Email:** [tmaq77@gmail.com](mailto:tmaq77@gmail.com)
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> **Email:** [tmaq77@gmail.com](mailto:tmaq77@gmail.com)
 
-- <img src="https://img.icons8.com/color/20/telegram-app--v1.png"/> **Telegram:** [@TemurMalik](https://t.me/Temur_React_Developer)
+- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20"/> **Telegram:** [@TemurMalik](https://t.me/Temur_React_Developer)
 
-- <img src="https://img.icons8.com/color/20/instagram-new--v1.png"/> **Instagram:** [@temur.s1](https://instagram.com/temur.s1)
+- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20"/> **Instagram:** [@temur.s1](https://instagram.com/temur.s1)
 
 ---
