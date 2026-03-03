@@ -35,4 +35,3 @@
 * 📸 **Instagram:** [@temur.s1](https://instagram.com/temur.s1)
 
 ---
-<p align="center">⭐️ Thanks for visiting! ⭐️</p>
