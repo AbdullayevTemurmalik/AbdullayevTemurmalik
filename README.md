@@ -12,11 +12,11 @@
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack & Tools  
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,vue,vite,tailwind,redux,postman,notion,linkedin,git,github,vscode,figma,windows&perline=12" />
   </a>
 </p>
 
