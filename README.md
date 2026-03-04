@@ -28,37 +28,6 @@
 
 ---
 
-### 📫 Contact  
-
-<p align="left">
-  <a href="tel:+998906967999">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/>
-  </a>
-  <strong>Phone:</strong> <code>+998 (90) 696-79-99</code>
-</p>
-
-<p align="left">
-  <a href="mailto:tmaq77@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/>
-  </a>
-  <strong>Email:</strong> 
-  <a href="mailto:tmaq77@gmail.com">tmaq77@gmail.com</a>
-</p>
-
-<p align="left">
-  <a href="https://t.me/Temur_React_Developer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="20"/>
-  </a>
-  <strong>Telegram:</strong> 
-  <a href="https://t.me/Temur_React_Developer">@TemurMalik</a>
-</p>
-
-<p align="left">
-  <a href="https://instagram.com/temur.s1">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="20"/>
-  </a>
-  <strong>Instagram:</strong> 
-  <a href="https://instagram.com/temur.s1">@temur.s1</a>
-</p>
+### 📫 Contact - <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="20"/> **Phone:** +998 (90) 696-79-99 - <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> **Email:** [tmaq77@gmail.com](mailto:tmaq77@gmail.com) - <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20"/> **Telegram:** [@TemurMalik](https://t.me/Temur_React_Developer) - <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20"/> **Instagram:** [@temur.s1](https://instagram.com/temur.s1)
 
 ---
