@@ -39,3 +39,5 @@
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20"/> **Instagram:** [@temur.s1](https://instagram.com/temur.s1)  
 
 ---
+
+⭐ If you like this project, follow me on GitHub
