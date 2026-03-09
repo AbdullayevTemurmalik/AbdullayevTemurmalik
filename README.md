@@ -24,7 +24,7 @@
 
 ### 🎯 Problem Solving
 [![Codewars](https://www.codewars.com/users/AbdullayevTemurmalik/badges/large)](https://www.codewars.com/users/AbdullayevTemurmalik)  
-*Rank: **4 kyu** | Honor: **880+***
+*Rank: **3 kyu** | Honor: **1110+***
 
 ---
 
