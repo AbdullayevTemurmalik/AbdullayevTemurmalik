@@ -6,7 +6,7 @@
 ---
 
 ### 💡 About Me
-* 🧠 **Focus:** React.js, Node.js, JavaScript & UI/UX
+* 🧠 **Focus:** React.js, Node.js, JavaScript, Next.Js, Express.Js, Vue.Js
 * ⏳ **Experience:** 1+ years in Practical Programming
 * 🎓 **Education:** Algorithm Training Center
 * 🌍 **Based in:** Uzbekistan
