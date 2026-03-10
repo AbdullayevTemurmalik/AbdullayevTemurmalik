@@ -1,6 +1,7 @@
 # 👨‍💻 Abdullayev TemurMalik
 
-**Front-End Developer | React Specialist** *“Code. Create. Improve. Repeat.”*
+**Front-End Developer | React Specialist**  
+*“Code. Create. Improve. Repeat.”*
 
 ---
 
@@ -9,6 +10,9 @@
 * ⏳ **Experience:** 1+ years in Practical Programming
 * 🎓 **Education:** Algorithm Training Center
 * 🌍 **Based in:** Uzbekistan
+
+### 🏆 GitHub Uzbekistan Rank
+[![committers.top badge](https://user-badge.committers.top/uzbekistan_private/AbdullayevTemurmalik.svg)](https://user-badge.committers.top/uzbekistan_private/AbdullayevTemurmalik)
 
 ---
 
