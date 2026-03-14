@@ -23,7 +23,9 @@
 
 ---
 
-![Temur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true)
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight&rank_icon=github)
 
 
 
