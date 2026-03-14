@@ -23,6 +23,10 @@
 
 ---
 
+### 🏆 GitHub Uzbekistan Rank & Activity
+
+[![committers.top badge](https://user-badge.committers.top/uzbekistan_private/AbdullayevTemurmalik.svg)](https://committers.top/uzbekistan)
+
 ### 🛠 Tech Stack & Tools  
 
 <p align="left">
