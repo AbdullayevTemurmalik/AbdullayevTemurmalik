@@ -23,6 +23,10 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![Temur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github)
+
 
 
 ### 🛠 Tech Stack & Tools  
