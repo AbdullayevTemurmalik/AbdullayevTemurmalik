@@ -24,10 +24,14 @@
 ---
 
 ### 📊 GitHub Stats
-
 ![Temur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github)
 
+---
 
+### 🏆 GitHub Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbdullayevTemurmalik&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### 🛠 Tech Stack & Tools  
 
