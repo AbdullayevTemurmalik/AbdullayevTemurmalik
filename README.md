@@ -56,7 +56,7 @@
 
 ### 📫 Contact
 
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20"/> **Website:** [about-me-eosin-nine.vercel.app](https://about-me-eosin-nine.vercel.app/)
+
 
 <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="20"/> **Phone:** +998 (90) 696-79-99  
 
