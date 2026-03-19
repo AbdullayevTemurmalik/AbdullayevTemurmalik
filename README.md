@@ -6,6 +6,8 @@
   <a href="https://about-me-eosin-nine.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AbdullayevTemurmalik&color=0070f3&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -44,19 +46,11 @@
 
 ---
 
-
-
 ### 🎯 Problem Solving
-
-
 
 [![Codewars](https://www.codewars.com/users/AbdullayevTemurmalik/badges/large)](https://www.codewars.com/users/AbdullayevTemurmalik)
 
-
-
 *Rank: **3 kyu** | Honor: **1110+***
-
-
 
 ---
 
