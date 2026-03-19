@@ -1,13 +1,19 @@
 # 👨‍💻 Abdullayev TemurMalik
 
-**Front-End Developer | React Specialist**  
-*“Code. Create. Improve. Repeat.”*
+**Front-End Developer | React Specialist** *“Code. Create. Improve. Repeat.”*
+
+<p align="left">
+  <a href="https://about-me-eosin-nine.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
 ### 💡 About Me
+- 🌐 **Portfolio:** [about-me-eosin-nine.vercel.app](https://about-me-eosin-nine.vercel.app/)
 - 🧠 **Focus:** React.js, Node.js, JavaScript, Next.Js, Express.Js, Vue.Js  
-- ⏳ **Experience:** 1+ years in Practical Programming  
+- ⏳ **Experience:** 2+ years in Practical Programming  
 - 🎓 **Education:** Algorithm Training Center  
 - 🌍 **Based in:** Uzbekistan  
 
@@ -40,13 +46,15 @@
 
 ### 🎯 Problem Solving
 
-[![Codewars](https://www.codewars.com/users/AbdullayevTemurmalik/badges/large)](https://www.codewars.com/users/AbdullayevTemurmalik)
+[![Codewars](https://www.codewars.com/users/AbdullayevTermurmalik/badges/large)](https://www.codewars.com/users/AbdullayevTemurmalik)
 
 *Rank: **3 kyu** | Honor: **1110+***
 
 ---
 
 ### 📫 Contact
+
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="20"/> **Website:** [about-me-eosin-nine.vercel.app](https://about-me-eosin-nine.vercel.app/)
 
 <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="20"/> **Phone:** +998 (90) 696-79-99  
 
