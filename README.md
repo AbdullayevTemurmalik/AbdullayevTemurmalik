@@ -62,7 +62,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> **Email:** [tmaq77@gmail.com](mailto:tmaq77@gmail.com)  
 
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20"/> **Telegram:** [@Temur_FrontEnd_Developer](https://t.me/Temur_FrontEnd_Developer)  
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20"/> **Telegram:** [@Temur_FrontEnd_Developer](https://t.me/Temur_Backend_Developer)  
 
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20"/> **Instagram:** [@temur.s1](https://instagram.com/temur.s1)
 
