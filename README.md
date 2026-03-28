@@ -12,12 +12,12 @@
 
 ---
 
-### 💡 About Me
+### 💡 Men haqimda
 - 🌐 **Portfolio:** [about-me-eosin-nine.vercel.app](https://about-me-eosin-nine.vercel.app/)
 - 🧠 **Focus:** React.js, Node.js, JavaScript, Next.Js, Express.Js, Vue.Js  
-- ⏳ **Experience:** 2+ years in Practical Programming  
-- 🎓 **Education:** Algorithm Training Center  
-- 🌍 **Based in:** Uzbekistan  
+- ⏳ **Tajriba:** Amaliy dasturlashda 2+ yil  
+- 🎓 **Ta'lim:** Algoritm O'quv Markazi  
+- 🌍 **Manzil:** O'zbekiston  
 
 ---
 
@@ -26,17 +26,17 @@
 
 ---
 
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight)
+### 📊 Eng ko'p ishlatilgan tillar
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
-### 📊 GitHub Stats
-![Temur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Statistikasi
+![Temur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Texnologiyalar va Instrumentlar
 
 <p align="left">
 <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@
 
 ---
 
-### 🎯 Problem Solving
+### 🎯 Problem Solving (Masala yechish)
 
 [![Codewars](https://www.codewars.com/users/AbdullayevTemurmalik/badges/large)](https://www.codewars.com/users/AbdullayevTemurmalik)
 
@@ -54,18 +54,16 @@
 
 ---
 
-### 📫 Contact
+### 📫 Aloqa
 
-
-
-<img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="20"/> **Phone:** +998 (90) 696-79-99  
+<img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="20"/> **Tel:** +998 (90) 696-79-99  
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> **Email:** [tmaq77@gmail.com](mailto:tmaq77@gmail.com)  
 
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20"/> **Telegram:** [@Temur_Backend_Developer](https://t.me/Temur_Backend_Developer)  
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20"/> **Telegram:** [@Temur_FrontEnd_Developer](https://t.me/Temur_FrontEnd_Developer)  
 
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20"/> **Instagram:** [@temur.s1](https://instagram.com/temur.s1)
 
 ---
 
-⭐ If you like this project, follow me on GitHub
+⭐ Agar ushbu loyiha sizga yoqqan bo'lsa, GitHub'da menga obuna bo'ling!
