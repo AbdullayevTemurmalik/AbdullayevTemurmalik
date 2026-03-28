@@ -12,12 +12,12 @@
 
 ---
 
-### 💡 Men haqimda
+### 💡 About Me
 - 🌐 **Portfolio:** [about-me-eosin-nine.vercel.app](https://about-me-eosin-nine.vercel.app/)
 - 🧠 **Focus:** React.js, Node.js, JavaScript, Next.Js, Express.Js, Vue.Js  
-- ⏳ **Tajriba:** Amaliy dasturlashda 2+ yil  
-- 🎓 **Ta'lim:** Algoritm O'quv Markazi  
-- 🌍 **Manzil:** O'zbekiston  
+- ⏳ **Experience:** 2+ years in Practical Programming  
+- 🎓 **Education:** Algorithm Training Center  
+- 🌍 **Based in:** Uzbekistan  
 
 ---
 
@@ -26,17 +26,17 @@
 
 ---
 
-### 📊 Eng ko'p ishlatilgan tillar
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight)
 
 ---
 
-### 📊 GitHub Statistikasi
-![Temur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+### 📊 GitHub Stats
+![Temur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-### 🛠 Texnologiyalar va Instrumentlar
+### 🛠 Tech Stack & Tools
 
 <p align="left">
 <a href="https://skillicons.dev">
@@ -46,7 +46,7 @@
 
 ---
 
-### 🎯 Problem Solving (Masala yechish)
+### 🎯 Problem Solving
 
 [![Codewars](https://www.codewars.com/users/AbdullayevTemurmalik/badges/large)](https://www.codewars.com/users/AbdullayevTemurmalik)
 
@@ -54,9 +54,9 @@
 
 ---
 
-### 📫 Aloqa
+### 📫 Contact
 
-<img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="20"/> **Tel:** +998 (90) 696-79-99  
+<img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="20"/> **Phone:** +998 (90) 696-79-99  
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> **Email:** [tmaq77@gmail.com](mailto:tmaq77@gmail.com)  
 
@@ -66,4 +66,4 @@
 
 ---
 
-⭐ Agar ushbu loyiha sizga yoqqan bo'lsa, GitHub'da menga obuna bo'ling!
+⭐ If you like this project, follow me on GitHub
