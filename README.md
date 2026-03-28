@@ -27,12 +27,12 @@
 ---
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📊 GitHub Stats
-![Temur's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
+![Temur's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
 
