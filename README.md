@@ -24,17 +24,13 @@
 ### 🏆 GitHub Uzbekistan Rank
 [![committers.top badge](https://user-badge.committers.top/uzbekistan_private/AbdullayevTemurmalik.svg)](https://user-badge.committers.top/uzbekistan_private/AbdullayevTemurmalik)
 
----
-
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
----
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight)
 
 ### 🛠 Tech Stack & Tools
 
