@@ -27,20 +27,13 @@
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight)
 
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight)
-
-### 🛠 Tech Stack & Tools
-
-<p align="left">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,vue,vite,tailwind,redux,postman,notion,linkedin,git,github,vscode,figma,windows&perline=12" />
-</a>
-</p>
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
 ### 🎯 Problem Solving
 
