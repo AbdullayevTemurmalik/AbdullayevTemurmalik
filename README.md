@@ -33,6 +33,12 @@
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight)
+
+### 📈 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullayevTemurmalik&theme=tokyonight&area=true&hide_border=true)
+
+---
+
 ### 🎯 Problem Solving
 
 [![Codewars](https://www.codewars.com/users/AbdullayevTemurmalik/badges/large)](https://www.codewars.com/users/AbdullayevTemurmalik)
