@@ -27,15 +27,15 @@
 ---
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight)
 
 ### 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullayevTemurmalik&theme=juicyfresh&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullayevTemurmalik&area=true&hide_border=true&style=neon)
 
 ---
 
