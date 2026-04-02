@@ -35,7 +35,7 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight)
 
 ### 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullayevTemurmalik&theme=tokyonight&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullayevTemurmalik&theme=juicyfresh&area=true&hide_border=true)
 
 ---
 
