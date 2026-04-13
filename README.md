@@ -37,7 +37,7 @@
 ---
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight&include_all_commits=true)
 
 ---
 
