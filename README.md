@@ -3,7 +3,7 @@
 **Front-End Developer | React Specialist** *“Code. Create. Improve. Repeat.”*
 
 <p align="left">
-  <a href="https://about-me-eosin-nine.vercel.app/" target="_blank">
+  <a href="https://temurmalikdev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   &nbsp;&nbsp;
@@ -12,8 +12,8 @@
 
 ---
 
-### 💡 About Me
-- 🌐 **Portfolio:**([https://about-me-eosin-nine.vercel.app/)](https://temurmalikdev.vercel.app/)
+### 💡 Men haqimda
+
 - 🧠 **Focus:** React.js, Node.js, JavaScript, Next.Js, Express.Js, Vue.Js  
 - ⏳ **Experience:** 2+ years in Practical Programming  
 - 🎓 **Education:** Algorithm Training Center  
@@ -57,7 +57,7 @@
 
 ---
 
-### 📫 Contact
+### 📫 Bog'lanish (Contact)
 
 <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="20"/> **Phone:** +998 (90) 696-79-99  
 
