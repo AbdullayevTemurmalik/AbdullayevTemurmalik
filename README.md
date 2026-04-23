@@ -13,7 +13,7 @@
 ---
 
 ### 💡 About Me
-- 🌐 **Portfolio:** [about-me-eosin-nine.vercel.app](https://about-me-eosin-nine.vercel.app/)
+- 🌐 **Portfolio:**([https://about-me-eosin-nine.vercel.app/)](https://temurmalikdev.vercel.app/)
 - 🧠 **Focus:** React.js, Node.js, JavaScript, Next.Js, Express.Js, Vue.Js  
 - ⏳ **Experience:** 2+ years in Practical Programming  
 - 🎓 **Education:** Algorithm Training Center  
