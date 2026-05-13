@@ -1,6 +1,7 @@
 # 👨‍💻 Abdullayev TemurMalik
 
-**Front-End Developer | React Specialist** *“Code. Create. Improve. Repeat.”*
+**Frontend | React Specialist** *“Code. Create. Improve. Repeat.”*
+**Backend | Node.Js, Express.Js Specialist** *“CREATE. READ. UPDATE. DELETE.”*
 
 <p align="left">
   <a href="https://temurmalikdev.vercel.app/" target="_blank">
