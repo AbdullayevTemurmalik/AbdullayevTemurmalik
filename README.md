@@ -1,73 +1,83 @@
-# 👨‍💻 Abdullayev TemurMalik
+# 💻 TemurMalik Abdullayev
 
-**Frontend | React Specialist** *“Code. Create. Improve. Repeat.”*
-**Backend | Node.Js, Express.Js Specialist** *“CREATE. READ. UPDATE. DELETE.”*
+> **Full-Stack Developer** *(Backend Focused)*  
+> *"Building scalable backends & performance-driven web applications."*
 
 <p align="left">
   <a href="https://temurmalikdev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Live--Demo-0070f3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=AbdullayevTemurmalik&color=0070f3&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-### 💡 Men haqimda
+### 📌 Men haqimda
 
-- 🧠 **Focus:** React.js, Node.js, JavaScript, Next.Js, Express.Js, Vue.Js  
-- ⏳ **Experience:** 2+ years in Practical Programming  
-- 🎓 **Education:** Algorithm Training Center  
-- 🌍 **Based in:** Uzbekistan  
+- 👤 **Ism-familiya:** TemurMalik Abdullayev (16 yosh)
+- 🎓 **Ta'lim:** Algorithm Training Center
+- 📍 **Joylashuv:** O'zbekiston
+- ⏳ **Tajriba:** 2+ yil (Amaliy dasturlash va loyihalar)
+- 🎯 **Asosiy yo'nalish:** Node.js, Express.js, PostgreSQL, MongoDB, REST API, TypeScript
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
+#### **Backend & Database (Main Focus)**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,redux,vite,nodejs,express,mongodb,postman,ubuntu,git,github,vscode,figma,notion,linkedin" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,postman,ts,js,ubuntu,git,github" />
+  </a>
+</p>
+
+#### **Frontend & Frameworks**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,html,css,vite" />
   </a>
 </p>
 
 ---
 
-### 🏆 GitHub Uzbekistan Rank
-[![committers.top badge](https://user-badge.committers.top/uzbekistan_private/AbdullayevTemurmalik.svg)](https://user-badge.committers.top/uzbekistan_private/AbdullayevTemurmalik)
+### 📊 GitHub Stats & Ratings
+
+<p align="center">
+  <a href="https://user-badge.committers.top/uzbekistan_private/AbdullayevTemurmalik">
+    <img src="https://user-badge.committers.top/uzbekistan_private/AbdullayevTemurmalik.svg" alt="GitHub Uzbekistan Rank">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight&include_all_commits=true" alt="Top Languages" />
+</p>
 
 ---
-
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdullayevTemurmalik&layout=compact&theme=tokyonight&include_all_commits=true)
-
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbdullayevTemurmalik&show_icons=true&theme=tokyonight)
 
 ### 📈 Contribution Activity
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullayevTemurmalik&theme=react&area=true&hide_border=true&custom_title=TemurMalik's%20Contribution%20Graph)
 
 ---
 
 ### 🎯 Problem Solving
 
-[![Codewars](https://www.codewars.com/users/AbdullayevTemurmalik/badges/large)](https://www.codewars.com/users/AbdullayevTemurmalik)
+<p align="left">
+  <a href="https://www.codewars.com/users/AbdullayevTemurmalik">
+    <img src="https://www.codewars.com/users/AbdullayevTemurmalik/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
 
-*Rank: **3 kyu** | Honor: **1110+***
+> **Codewars:** 3 kyu | Honor: 1110+
 
 ---
 
 ### 📫 Bog'lanish (Contact)
 
-<img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="20"/> **Phone:** +998 (90) 696-79-99  
-
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> **Email:** [tmaq77@gmail.com](mailto:tmaq77@gmail.com)  
-
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20"/> **Telegram:** [@TM_Backdev](https://t.me/Tm_Backdev)  
-
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20"/> **Instagram:** [@temur.s1](https://instagram.com/temur.s1)
-
----
-
-⭐ If you like this project, follow me on GitHub
+- 📞 **Tel:** +998 (90) 696-79-99
+- 📧 **Email:** [tmaq77@gmail.com](mailto:tmaq77@gmail.com)
+- 💬 **Telegram:** [@TM_Backdev](https://t.me/Tm_Backdev)
+- 📷 **Instagram:** [@temur.s1](https://instagram.com/temur.s1)
