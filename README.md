@@ -18,24 +18,38 @@
 - 👤 **Ism-familiya:** TemurMalik Abdullayev (16 yosh)
 - 🎓 **Ta'lim:** Algorithm Training Center
 - 📍 **Joylashuv:** O'zbekiston
-- ⏳ **Tajriba:** 2+ yil (Amaliy dasturlash va loyihalar)
-- 🎯 **Asosiy yo'nalish:** Node.js, Express.js, PostgreSQL, MongoDB, REST API, TypeScript
+- ⏳ **Tajriba:** 2+ yil (Amaliy dasturlash)
+- 🎯 **Asosiy yo'nalish:** Backend Development & System Architecture
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
-#### **Backend & Database (Main Focus)**
+#### 1. Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,postman,ts,js,ubuntu,git,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js" />
   </a>
 </p>
 
-#### **Frontend & Frameworks**
+#### 2. Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,html,css,vite" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  </a>
+</p>
+
+#### 3. Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,html,css" />
+  </a>
+</p>
+
+#### 4. Tools & Workflow
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,vite" />
   </a>
 </p>
 
