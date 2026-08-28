@@ -4,7 +4,7 @@
 TemurMalik-Abdullayev@github
 --------------------------------------------------
 OS: Windows, Linux (Ubuntu)
-Uptime: 17 yil
+Uptime: 17 yosh
 Location: Namangan, Uzbekistan
 Kernel: Backend Developer | AI Engineer
 IDE: VS Code, Cursor, Antigravity
