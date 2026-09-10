@@ -1,12 +1,12 @@
-# TemurMalik Abdullayev
+ # TemurMalik Abdullayev
 
 ```yaml
 TemurMalik-Abdullayev@github
 --------------------------------------------------
-OS: Windows, Linux (Ubuntu)
+OS: Windows, Linux (Ubuntu), Linux (Parrot) 
 Uptime: 17 yosh
 Location: Namangan, Uzbekistan
-Kernel: Backend Developer | AI Engineer
+Kernel: Backend Developer | AI Engineer 
 IDE: VS Code, Cursor, Antigravity
 
 Languages.Scripts: JavaScript, TypeScript
