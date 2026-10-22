@@ -7,10 +7,10 @@ OS: Windows, Linux (Ubuntu), Linux (Parrot)
 Uptime: 17 yosh
 Location: Namangan, Uzbekistan
 Kernel: Backend Developer | AI Engineer 
-IDE: VS Code, Cursor, Antigravity
+IDE: VS Code, Cursor, Antigravity, Claude, Claude Code, Codex, ChatGpt
 
 Languages.Scripts: JavaScript, TypeScript
-Languages.Frontend: Next.js, React, Vue.js
+Languages.Frontend: Next.js, React.js, Vue.js
 Languages.Styles: Tailwind CSS, Sass, Bootstrap
 Languages.Backend: Node.js, Express.js, Python
 Databases: MongoDB, PostgreSQL
