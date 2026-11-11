@@ -1,13 +1,17 @@
- # TemurMalik Abdullayev
-
-```yaml
 TemurMalik-Abdullayev@github
 --------------------------------------------------
-OS: Windows, Linux (Ubuntu), Linux (Parrot) 
-Uptime: 17 yosh
+OS: Windows, Linux (Ubuntu, Parrot)
+Age: 17
 Location: Namangan, Uzbekistan
-Kernel: Backend Developer | AI Engineer 
-IDE: VS Code, Cursor, Antigravity, Claude, Claude Code, Codex, ChatGpt
+Kernel: Backend Developer | AI Engineer
+Tools: VS Code, Cursor, Antigravity, Claude, Claude Code, Codex, ChatGPT
+
+Most Used Languages: TypeScript, JavaScript, Python
+
+Featured Projects:
+  Fitness AI Bot: @donikcoach_bot
+  Al Harameen — Watch Store: alharameenuz.uz
+  RunCode Web — Learning Platform: runcode-web.vercel.app
 
 Languages.Scripts: JavaScript, TypeScript
 Languages.Frontend: Next.js, React.js, Vue.js
@@ -19,7 +23,6 @@ DevOps: Docker, Git, Linux
 Hobbies: System Architecture, Algorithm Optimization, AI Agents & Automation
 
 Contact.Telegram: @TM_Backdev
-Contact.AI_Bot: @obunaaa_bot
 Contact.Portfolio: temurmalikdev.vercel.app
 Contact.Codewars: AbdullayevTemurmalik (3 kyu | 1,380+ Honor)
 Contact.Email: tmaq77@gmail.com
