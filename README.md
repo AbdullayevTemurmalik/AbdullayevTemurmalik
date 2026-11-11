@@ -2,8 +2,7 @@
 # TemurMalik Abdullayev
 
 ```yaml
-# TemurMalik-Abdullayev@github
-# --------------------------------------------------
+
 OS: Windows, Linux (Ubuntu, Parrot)
 Age: 17
 Location: Namangan, Uzbekistan
