@@ -2,7 +2,8 @@
 # TemurMalik Abdullayev
 
 ```yaml
-
+# TemurMalik-Abdullayev@github
+# --------------------------------------------------
 OS: Windows, Linux (Ubuntu, Parrot)
 Age: 17
 Location: Namangan, Uzbekistan
@@ -13,15 +14,21 @@ Most Used Languages: TypeScript, JavaScript, Python
 
 Featured Projects:
   Fitness.AI_Bot: "@donikcoach_bot"
-  Watch Store: "Al Harameen — alharameenuz.uz"
-  Learning Platform: "RunCode Web — runcode-web.vercel.app"
+  Watch.Store: alharameenuz.uz
+  Learning.Platform: runcode-web.vercel.app
+
+GitHub Accounts:
+  Main.Account: github.com/AbdullayevTemurmalik
+  Backend.Account: github.com/railwayforserver
+  Backend.Purpose: Railway Deployments | API Management
+  Collaboration: Development | Backend Infrastructure
 
 Languages.Scripts: JavaScript, TypeScript
 Languages.Frontend: Next.js, React.js, Vue.js
 Languages.Styles: Tailwind CSS, Sass, Bootstrap
 Languages.Backend: Node.js, Express.js, Python
 Databases: MongoDB, PostgreSQL
-DevOps: Docker, Git, Linux
+DevOps: Railway, Docker, Git, Linux
 
 Hobbies: System Architecture, Algorithm Optimization, AI Agents & Automation
 
